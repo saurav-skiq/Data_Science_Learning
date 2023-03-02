@@ -23,6 +23,6 @@ heig= int(input("Enter the Height of the Triangle: "))
 bas= int(input("Enter the Base of the Triangle: "))
 print(tarea(heig,bas,type=ty))
 
-#star Pattern
+# Star Pattern
 rows= int(input("Enter the number of rows you want"))
 star(rows)
